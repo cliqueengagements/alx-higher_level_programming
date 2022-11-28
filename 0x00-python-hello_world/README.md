@@ -53,5 +53,4 @@
  - No more than 5 functions per file.
  
 ## Credits
-- [Oluwatomisin Isogun](https://github.com/TosinISOGUN)
-> Other collaborators are acknowledged within the repository.
+- Olawunmi Eniola Samuel.
